@@ -24,4 +24,5 @@ poder me desenvolver em bancos relacionais como postgreesql
 - Node
 - Typescript
 - Prisma ORM
+- Neon (Postgreesql)
 ```
